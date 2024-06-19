@@ -1,0 +1,13 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.adapterTargetName": "esp32",
+  "idf.flashType": "UART",
+  "idf.port": "/dev/ttyUSB0",
+  "idf.portWin": "COM3",
+  "files.associations": {
+    "freertos.h": "c",
+    "mqtt_client.h": "c",
+    "netdb.h": "c",
+    "time.h": "c"
+  }
+}
